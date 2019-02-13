@@ -45,6 +45,7 @@ else:
         user_info=json.load(open("USER_INFO.txt"))
             
 print("Enter your user id: ")
+print("If your a new user enter any username you'd like and it will be created: ")
 username=input()
 print("Signing in...Please Wait!")
 print(" ")
