@@ -12,4 +12,4 @@ Run the *MoviePredictor.py* from the same folder as *final_movies.csv* using *SP
 
 Click the run button in the *SPYDER* to run the project.
 
-Note:"The Program comes with two pre-defined user accounts. For more personalised suggestions, Type your own username when the program asks *Enter your username: * which will create a username based on your input."
+Note:"The Program comes with two pre-defined user accounts. For more personalised suggestions, Type your own username when the program asks *Enter your username:* which will create a username based on your input."
